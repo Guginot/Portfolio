@@ -1,4 +1,5 @@
 # Отток клиентов из банка
+[ipynb](https://github.com/Guginot/Portfolio/blob/main/Clients%20out%20of%20the%20bank/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb)
 ## Описание проекта
 Требуется проанализировать данные клиентов банка и выделить группы отточных клиентов. 
 ## Навыки и инструменты
